@@ -80,6 +80,9 @@
         <mxCell id="0ZlStfE_Qi-HhSGjazq6-24" value="bfs me queue aur visited array isiliye use karte ki peeche na jaye, but peeche gye aur vis true dikha toh gyo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0ZlStfE_Qi-HhSGjazq6-28" value="online bolre, boolean wala visited hata ke 2 variable ka kuch aur lo, like integer ka array" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
